@@ -1,2 +1,2 @@
  ## The first change12
-## 1sdfghjkl;111
+## Это не занятия для новичков
